@@ -1,4 +1,4 @@
-# Django Specific Resources
+# Django Books (FREE) Resources
 1. [django-orm-cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/)
 2. [building-rest-api's in django](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
 3. [django projects cookbook](https://books.agiliq.com/projects/djenofdjango/en/latest/)
