@@ -18,6 +18,13 @@
 - [ ] Packages: [django-filters, django-extensions, crispy-forms, django-rest-framework]
 - [ ] Context Managers  (builtins, third-party and custom middlewares)
 
+# Even more topics:
+- [ ] Custom context manager
+- [ ] Caching and Task management, Scheduling
+- [ ] Custom management commands, faker (fake data generating)
+- [ ] Docker, Load-testing, Unit testing, Integration and functional testing
+- [ ] Batching/Multiprocessing/Multithreading
+- [ ] Cronjobs, Notifications, Messaging
 
 # Open-source projects to study or learn:
 - [ ] [Django-CMS](https://github.com/django-cms/django-cms)
