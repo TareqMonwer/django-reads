@@ -5,6 +5,9 @@
 4. [django-admin-cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)
 5. [django-multitenancy](https://books.agiliq.com/projects/django-multi-tenant/)
 
+# My 3rd Party Package pics:
+1. [Django-Crum: Django Current Request User Middleware](https://github.com/ninemoreminutes/django-crum)
+
 
 # Topics and Resources:
 - [ ] Django Middlewares (builtins, third-party and custom middlewares)
